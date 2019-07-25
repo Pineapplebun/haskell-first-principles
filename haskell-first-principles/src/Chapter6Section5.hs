@@ -1,4 +1,4 @@
-module EqInstances (TisAnInteger, TwoIntegers) where
+module Chapter6Section5 (TisAnInteger, TwoIntegers) where
 
   data TwoIntegers =
     Two Integer Integer

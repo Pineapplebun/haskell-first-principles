@@ -1,4 +1,4 @@
-module Practice49 where
+module Chapter4Section9 where
   isPalindrome :: (Eq a) => [a] -> Bool
   isPalindrome s = reverse s == s
 

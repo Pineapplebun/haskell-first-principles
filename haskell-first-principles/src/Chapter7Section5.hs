@@ -1,4 +1,4 @@
-module Practice75 where
+module Chapter7Section5 where
   -- functionC x y = if (x > y) then x else y
   functionC x y =
     case x > y of

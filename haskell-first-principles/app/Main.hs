@@ -1,6 +1,8 @@
 module Main where
-
-import Lib
+    
+import Print3Broken
 
 main :: IO ()
-main = someFunc
+main = do { 
+    printSecond
+}

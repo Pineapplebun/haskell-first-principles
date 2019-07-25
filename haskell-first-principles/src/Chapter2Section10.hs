@@ -1,4 +1,4 @@
-module Practice where
+module Chapter2Section10 where
   mult1     = x * y + 3
     where x = 3
           y = 1000

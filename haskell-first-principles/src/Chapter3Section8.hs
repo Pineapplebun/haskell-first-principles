@@ -1,4 +1,4 @@
-module Practice38 where
+module Chapter3Section8 where
   thirdLetter :: String -> Char
   thirdLetter a = a !! 2
 
