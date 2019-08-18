@@ -2,9 +2,9 @@ name:                haskell-first-principles
 version:             0.1.0.0
 github:              "githubuser/haskell-first-principles"
 license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2019 Author name here"
+author:              "Pineapplebunz"
+maintainer:          "kevinjr.chen1@gmail.com"
+copyright:           "2019 Kevin Chen"
 
 extra-source-files:
 - README.md
@@ -21,6 +21,8 @@ description:         Please see the README on GitHub at <https://github.com/gith
 
 dependencies:
 - base >= 4.7 && < 5
+- time
+- containers
 
 library:
   source-dirs: src
