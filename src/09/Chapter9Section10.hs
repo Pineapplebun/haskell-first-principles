@@ -1,7 +1,6 @@
 module Chapter9Section10 where
     import Chapter9Section6
 
-
     filterMultiplesOf3 :: [Int] -> [Int]
     filterMultiplesOf3 list = filter (\x -> (rem x 3) == 0) list
 
